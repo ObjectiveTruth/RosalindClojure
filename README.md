@@ -9,7 +9,7 @@ These solutions should only be used if you are stuck on a problem to check answe
 --
 
 <h2>Getting The Results</h2>
-All the answers were obtained using the [LightTable](http://lighttable.com]) IDE using the instaRepl feature. 
+All the answers were obtained using the [LightTable](http://lighttable.com]) IDE using the [instaRepl](https://www.youtube.com/watch?v=7YIaHyTdjTY) feature. 
 This means the answer won't print out if you run the file. Answers will show up inline once you evaluate it in the editor window like so:
 
 ![Clojure Insta Repl Example Image](/resources/clojureInstaReplExample.png?raw=true "Clojure Insta Repl Example")
