@@ -1,0 +1,5 @@
+Loom License
+
+Copyright (C) 2010-2013 Aysylu Greenberg & Justin Kramer (jkkramer@gmail.com)
+
+Distributed under the Eclipse Public License, the same as Clojure.
